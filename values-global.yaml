@@ -9,9 +9,9 @@ global:
 
   git:
     hostname: github.com
-    account: validatedpatterns-demos
-    username: validatedpatterns-demos
-    email: SOMEWHERE@EXAMPLE.COM
+    account: jpaulrajredhat
+    username: jpaulrajredhat
+    email: jpaulraj@redhat.com
     dev_revision: main
 
   imageregistry:
